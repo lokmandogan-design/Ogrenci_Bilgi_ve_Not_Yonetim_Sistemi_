@@ -1,0 +1,1 @@
+# Ogrenci_Bilgi_ve_Not_Yonetim_Sistemi_
